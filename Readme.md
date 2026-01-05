@@ -5,6 +5,7 @@ A simple REST API for managing todo items built with FastAPI and PostgreSQL.
 ## Live Demo
 
 - **API Base URL**: https://fastapi-todo-server-p8g9.onrender.com
+- **Swagger UI**: https://fastapi-todo-server-p8g9.onrender.com/docs
 - **API Documentation (Postman)**: [View API Docs](https://documenter.getpostman.com/view/45894584/2sBXVcnDnS)
 
 ## Features
